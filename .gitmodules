@@ -1,0 +1,3 @@
+[submodule "assets/Ultimate-Tic-Tac-Toe"]
+	path = assets/Ultimate-Tic-Tac-Toe
+	url = https://github.com/thiagovas/Ultimate-Tic-Tac-Toe.git
