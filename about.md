@@ -5,7 +5,7 @@ layout: page
 
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>Hi, my name is Thiago Silva. I'm a graduate student at <a href='http://dcc.ufmg.br'>DCC</a> - <a href='http://ufmg.br'>UFMG</a>. Currently I'm working with the concept of Fairness in Machine Learning with my advisor <a href='https://sites.google.com/site/msalvimjr/'>Mário S. Alvim.</a></p>
+<p>Hi, my name is Thiago Silva. I'm a graduate student at <a href='http://dcc.ufmg.br'>DCC</a> - <a href='http://ufmg.br'>UFMG</a>. Currently I'm working with the concept of Fairness in Machine Learning with my advisor <a href='https://homepages.dcc.ufmg.br/~msalvim/'>Mário S. Alvim.</a></p>
 
 <!-- <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
