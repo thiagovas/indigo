@@ -1,6 +1,6 @@
 # main text of home
 name: Thiago Silva
-bio: Graduate Student at <a href='http://dcc.ufmg.br'>DCC</a> - <a href='http://ufmg.br'>UFMG</a>
+bio: Graduate Student at <a href='https://dcc.ufmg.br'>DCC</a> - <a href='https://ufmg.br'>UFMG</a>
 
 # twitter summary info
 description: Thiago Silva's Personal Page.
@@ -16,7 +16,7 @@ resume: false
 resume-external: true
 resume-url: https://google.com/?q=my+resume
 
-url: http://thiagovas.github.io
+url: https://thiagovas.github.io
 
 permalink: /:title/
 
